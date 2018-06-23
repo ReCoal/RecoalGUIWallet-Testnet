@@ -1,4 +1,4 @@
-# ReCoal GUI Wallet
+# ReCoal GUI Testnet Wallet
 
 This is a fork of the **Sumokoin GUI Wallet**: https://github.com/sumoprojects/SumoGUIWallet
 It is changed to be compatible with ReCoal.

@@ -1,9 +1,9 @@
 {
   "daemon": {
     "log_level": 0, 
-    "block_sync_size": 10
+    "block_sync_size": 100
   }, 
   "blockchain": {
-    "height": 4803
+    "height": 0
   }
 }

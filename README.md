@@ -30,4 +30,4 @@ It is changed to be compatible with ReCoal.
 
 	Pull-requests and help is always welcome. If you want to buy me a beer:
 	
-	XMR and BTC donations to donate.recoal.org
+	XMR and BTC donations to **donate.recoal.org**

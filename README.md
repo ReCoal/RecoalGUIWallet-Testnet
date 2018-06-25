@@ -23,7 +23,7 @@ It is changed to be compatible with ReCoal.
 
 3. Run the wallet (Python 2.7):
 		
-		cd /path/to/ReCoalGUI
+		cd /path/to/RecoalGUIWallet
 		python wallet.py
 
 4. Contribution
